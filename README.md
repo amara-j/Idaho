@@ -1,2 +1,2 @@
 # Idaho
-# Districting analysis for Idaho.
+Districting analysis and saved outputs for Idaho.
